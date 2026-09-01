@@ -39,3 +39,26 @@ Personally, I would choose AWS because it provides a wide range of services that
 After comparing AWS, Microsoft Azure, and Google Cloud Platform, I learned that all three providers offer similar cloud services but have different strengths. AWS is strong because of its wide range of services, Azure is strong in Microsoft integration, and Google Cloud is strong in artificial intelligence, machine learning, data, and Kubernetes.
 
 I learned that choosing a cloud provider should depend on the needs of the organization instead of simply choosing the most popular platform.
+
+---
+
+# 4. Match the Cloud Services
+
+## Equivalent Cloud Services
+
+| Service Category | AWS | Microsoft Azure | Google Cloud Platform |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+## My Observation
+
+After comparing the services, I noticed that AWS, Azure, and Google Cloud Platform provide similar types of cloud services. The main difference is the name and specific features of each service.
+
+For example, Amazon EC2, Azure Virtual Machines, and Compute Engine all provide virtual machines. Amazon S3, Azure Blob Storage, and Cloud Storage provide object storage.
+
+I learned that knowing the equivalent services is useful when comparing cloud providers because it makes it easier to understand which platform can provide the services needed by an organization.
+```
